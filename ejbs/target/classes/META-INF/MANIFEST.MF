@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: asus
+Class-Path: primary-source-1.0-SNAPSHOT.jar glassfish-embedded-all-4.1
+ .jar logging-1.0-SNAPSHOT.jar
+Build-Jdk: 1.8.0_191
+Created-By: Maven Integration for Eclipse
+
